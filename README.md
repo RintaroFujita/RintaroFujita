@@ -1,9 +1,9 @@
 <p align="left"> 
-	<img alt="github stats"  height="200px"src="git-hub-readme-stats-clone2-kdf4.vercel.app/api/?username=rintarofujita&cont_private=true&theme=react" />
-	<img alt="Top Langs" height="200px"  src="git-hub-readme-stats-clone2-kdf4.vercel.app/api/top-langs/?username=rintarofujita&layout=donut&show_icons=true&theme=react" />
+	<img alt="github stats"  height="200px"src="https://git-hub-readme-stats-clone2-kdf4.vercel.app/api/?username=rintarofujita&cont_private=true&theme=react" />
+	<img alt="Top Langs" height="200px"  src="https://git-hub-readme-stats-clone2-kdf4.vercel.app/api/top-langs/?username=rintarofujita&layout=donut&show_icons=true&theme=react" />
 </p>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,docker,py" />
 </p>
 
 <!--
