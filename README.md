@@ -1,6 +1,6 @@
 <p align="left"> 
 	<img alt="github stats"  height="250px"src="https://github-readme-stats.vercel.app/api?username=rintarofujita&cont_private=true&theme=react" />
-	<img alt="Top Langs" height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rintarofujita&show_icons=true&theme=react" />
+	<img alt="Top Langs" height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rintarofujita&layout=donut-vertical&show_icons=true&theme=react" />
 </p>
 
 <!--
