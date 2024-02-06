@@ -6,5 +6,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rintarofujita&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&theme=onedark&no-frame=true)](https://rintarofujita.tech)
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,docker,py,swift" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,docker,py,swift,svelte" />
 </p>
