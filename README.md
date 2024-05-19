@@ -8,3 +8,4 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,docker,py,swift,svelte" />
 </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rintarofujita&theme=dark" alt="GitHub Streak" /></a>
