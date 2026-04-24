@@ -4,7 +4,8 @@
 </p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rintarofujita&theme=react&mode=weekly" alt="GitHub Streak" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rintarofujita&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&theme=onedark&no-frame=true)](https://rintarofujita.tech)
+<img src="https://github-widgets-lovat.vercel.app/api/rings" height="200"/>
+<img src="https://github-widgets-lovat.vercel.app/api/orbital" height="200"/>
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,docker,py,swift,svelte" />
