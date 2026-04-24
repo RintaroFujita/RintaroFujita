@@ -4,8 +4,8 @@
 </p> -->
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rintarofujita&theme=react&mode=weekly" alt="GitHub Streak" /></a>
 <p align="left"> 
-	<img src="https://github-widgets-lovat.vercel.app/api/rings" height="600"/>
-	<img src="https://github-widgets-lovat.vercel.app/api/orbital" height="600"/>
+	<img src="https://github-widgets-lovat.vercel.app/api/rings" height="400"/>
+	<img src="https://github-widgets-lovat.vercel.app/api/orbital" height="400"/>
 </p>
 <!-- <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,docker,py,swift,svelte" />
